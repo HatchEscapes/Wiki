@@ -22,4 +22,5 @@ Fused at 7.5AMP Every 7 or 8 Boards. There are 40 boards in total each consistin
 ![LED WALL](https://github.com/HatchEscapes/Wiki/blob/main/ledwall.jpg)
 
 - Todo: Gather Images and map out power- Fuse and Pixlite locations
-#90s
+
+## 90s
