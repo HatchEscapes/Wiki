@@ -19,4 +19,6 @@ Using an ESP32 utilizing two MCP23017 boards.
 
 #### LED Walls
 Fused at 7.5AM Every 7 or 8 Boards. There are 40 boards in total each consisting of 50 LED's a board.
-## 90s
+![LED WALL](https://github.com/HatchEscapes/Wiki/blob/main/ledwall.jpg)
+
+#90s
