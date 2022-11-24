@@ -18,6 +18,8 @@ You can remember this by understanding that the amplifer always wants to have an
 
 In Touch Designer.  Navigate to Project 1  -> Lights (Direct Tab should be selected on top)
 
+![Play](https://github.com/HatchEscapes/Wiki/blob/main/play.png)
+
 To turn the lights off slide all the sliders to the left.
 
 The Bathroom handles lights a little differently. Set all of the Text fields to 0. 
@@ -25,16 +27,19 @@ The Bathroom handles lights a little differently. Set all of the Text fields to 
 
 ##### Trouble shooting: I'm moving the sliders but the lights are not turning off.
 Make sure touch designer is not paused. Play button shoudl be highlighed on the bottom of Touch Designer.
+https://github.com/HatchEscapes/Wiki/blob/main/play.png
+![Play](https://github.com/HatchEscapes/Wiki/blob/main/play.png)
 
 ##### I can't drag the sliders!
 Click the + button on the bottom right corner of the Lights node
 
 ADVATEK is running a Test Mode.
-
+![adv](https://github.com/HatchEscapes/Wiki/blob/main/adv.png)
 #### ADVATEK
 Open ADVATEK
 Double Click the Pixlite controller you want to control
 -> Test Tab
+![AdvTest](https://github.com/HatchEscapes/Wiki/blob/main/advtest.png)
 ->Set Test
     -> None (Live Data)
 
