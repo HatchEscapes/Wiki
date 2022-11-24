@@ -26,7 +26,8 @@ The Bathroom handles lights a little differently. Set all of the Text fields to 
 
 
 ##### Trouble shooting: I'm moving the sliders but the lights are not turning off.
-Make sure touch designer is not paused. Play button shoudl be highlighed on the bottom of Touch Designer.
+Make sure touch designer is not paused. Play button should be highlighed on the bottom of Touch Designer.
+
 ![Play](https://github.com/HatchEscapes/Wiki/blob/main/play.png)
 
 ##### I can't drag the sliders!
