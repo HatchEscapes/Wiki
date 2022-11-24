@@ -42,6 +42,9 @@ Double Click the Pixlite controller you want to control
 ![AdvTest](https://github.com/HatchEscapes/Wiki/blob/main/advtest.png)
 ->Set Test
     -> None (Live Data)
+    
+    
+ 70s lights are currently Local to their projects and not connected to the Network and would need to be manually powered off until conneted. 
 
 ## Bathroom
 
