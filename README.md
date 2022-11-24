@@ -1,5 +1,43 @@
 # Wiki
 
+#Shut Down/ Power on Procedures.
+
+### Audio
+
+The Audio Interface and Amplifier live in the control room. When powering off Always Turn the Amplifiers Off First and then the Audio Interfaces. 
+
+The Boxes on top (Focusrite) are the Audio Interfaces and the 2 Boxes Just below are the Amplifiers (Pyle)
+
+When powering the sound on you do the oposite. Power the Audio Interface First then turn on the Amplifer.  
+You can remember this by understanding that the amplifer always wants to have an Audio interface to talk to so it should never be powered on without an Audio Interface. 
+
+
+### Lights
+
+#### Touch Designer
+
+In Touch Designer.  Navigate to Project 1  -> Lights (Direct Tab should be selected on top)
+
+To turn the lights off slide all the sliders to the left.
+
+The Bathroom handles lights a little differently. Set all of the Text fields to 0. 
+
+
+##### Trouble shooting: I'm moving the sliders but the lights are not turning off.
+Make sure touch designer is not paused. Play button shoudl be highlighed on the bottom of Touch Designer.
+
+##### I can't drag the sliders!
+Click the + button on the bottom right corner of the Lights node
+
+ADVATEK is running a Test Mode.
+
+#### ADVATEK
+Open ADVATEK
+Double Click the Pixlite controller you want to control
+-> Test Tab
+->Set Test
+    -> None (Live Data)
+
 ## Bathroom
 
 ## 50s
