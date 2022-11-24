@@ -1,6 +1,6 @@
 # Wiki
 
-#Shut Down/ Power on Procedures.
+## Shut Down/ Power on Procedures.
 
 ### Audio
 
