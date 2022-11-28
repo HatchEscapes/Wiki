@@ -45,6 +45,13 @@ Double Click the Pixlite controller you want to control
     
     
  70s lights are currently Local to their projects and not connected to the Network and would need to be manually powered off until conneted. 
+ 
+## MQTT
+MQTT is the protocol we are using to talk to devices. Our main show machine is running a MQTT Broker called mosquito. This handles all the communication between devices. 
+The broker will autostart when you restart the computer. It will open up a termainal window, if this window is closed or needs to be restarted you can manually start the the broker by opening. /usr/local/Cellar/mosquitto/1.6.7/sbin/mosquitto
+
+If you get the error MQTT Connection Failed: (-1) TCP/TLS connect failure. Check to see if the mosquitto broker is running.
+
 
 ## Bathroom
 
